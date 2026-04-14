@@ -1,3 +1,5 @@
+// The route that is to be followed by the application
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Signup from "./pages/Signup";
